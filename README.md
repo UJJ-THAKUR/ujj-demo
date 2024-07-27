@@ -1,2 +1,3 @@
 # ujj-demo
-this is my first git reposiyory.
+this is my first git repository</br>
+author-Ujjwal Thakur
